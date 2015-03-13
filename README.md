@@ -1,2 +1,2 @@
 # chat_room_erlang
-Chatting room using NitrogenProject Framework
+Basic Chatting room using NitrogenProject Framework.
